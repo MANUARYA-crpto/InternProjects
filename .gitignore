@@ -1,0 +1,30 @@
+
+# Ignore large Uber dataset file
+Uber-Trip-Analysis/data/uber-raw-data-janjune-15.csv
+
+
+# -------------------------------
+# Ignore entire folders (NOT projects)
+# -------------------------------
+movie_pipeline/
+pdfs/
+
+# -------------------------------
+# Ignore virtual environments ONLY
+# -------------------------------
+Instagram-Fake-Account-Detection/insta/
+Netflix-Analysis/Netflix/
+TCS-Stock-Analysis/TCS/
+Uber-Trip-Analysis/uber/
+
+# -------------------------------
+# Python cache (safe to ignore)
+# -------------------------------
+__pycache__/
+*.pyc
+
+# -------------------------------
+# OS junk
+# -------------------------------
+.DS_Store
+Thumbs.db
